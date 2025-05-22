@@ -25,7 +25,7 @@
 
 ### 🧰 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,react,mysql,postgres,docker,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,javascript,react,mysql,postgres,docker,github,vscode,figma,linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>
 </p>
 
