@@ -65,5 +65,5 @@
 
 <div align="center">
   <!-- Snake GitHub Animation -->
-  <img src="https://github.com/ahmadwafii11/ahmadwafii11/blob/output/github-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://github.com/ahmadwafii11/ahmadwafii11/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 <div/>
