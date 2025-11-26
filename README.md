@@ -33,11 +33,11 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadwafii11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadwafii11&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadwafii11&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=ahmadwafii11&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwafii11&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwafii11&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
