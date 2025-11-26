@@ -37,7 +37,7 @@
   <br />
   <img src="https://streak-stats.demolab.com/?user=ahmadwafii11&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwafii11&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwafii11&layout=compact&theme=tokyonight" /> </p>
 </p>
 
 ---
