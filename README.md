@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Web-based Projects & Learning Advanced Techs**  <br>- 🌱 I’m currently learning **Docker, Machine Learning, Deep Learning, ReactJS**  <br>- 📫 Reach me at **wafiahmad950@gmail.com**
+- 🔭 I’m currently working on **Web-based Projects & Learning Advanced Techs**  <br>- 🌱 I’m currently learning **Docker, GO, C++, Rust, Machine Learning, Deep Learning, ReactJS**  <br>- 📫 Reach me at **wafiahmad950@gmail.com**
 
 <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="80%" />
