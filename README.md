@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Data Analyst & Web Developer
+💡 Data Analyst & Web Developer <br>
 I focus on data processing, machine learning, and modern web development.
 
 - 🔭 I’m currently working on **Web-based Projects & Data-Driven Applications**  <br>- 🌱 I’m currently learning **Machine Learning, Deep Learning, dan Backend Development**  <br>- 📫 Reach me at **wafifahmad@gmail.com**
